@@ -17,7 +17,7 @@
  
   ## :memo: Extracción de datos
 
-   Los datos de cada tienda están disponibles en archivos CSV y se cargarán utilizando el código base
+   Los datos de cada tienda están disponibles en archivos CSV y se cargarán utilizando el código base.
   El código extrae información de las cuatro tiendas y organiza los datos en DataFrames utilizando la biblioteca Pandas
 
    ## :computer: Conjuntos y estructura de datos
@@ -38,7 +38,7 @@
  
   ## :clipboard: Informe Final
 
-   El informe final contendrá las conclusiones en base a los análisis realizados y los gráficos generados, teniendo en cuenta todos los factores analizados, como:
+   El informe final contendrá las conclusiones en base a los análisis realizados y los gráficos generados, teniendo en cuenta todos los factores analizados:
 
   - Los ingresos totales de las tiendas
 
