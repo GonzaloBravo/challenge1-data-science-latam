@@ -9,7 +9,7 @@
 
 ## :hammer_and_wrench: Desarrollo del proyecto
 
-  - Carga y manipule datos CSV con la biblioteca Pandas
+  - Carga y manipulación de datos CSV con la biblioteca Pandas
   - Creación de visualizaciones de datos con la biblioteca Matplotlib
   - Análisis de métricas como ingresos, reseñas y rendimiento de ventas
   - Presentación de los resultados de forma clara y visual mediante gráficos de barras, circulares, de dispersión y otros
@@ -20,7 +20,7 @@
    Los datos de cada tienda están disponibles en archivos CSV y se cargarán utilizando el código base
   El código extrae información de las cuatro tiendas y organiza los datos en DataFrames utilizando la biblioteca Pandas
 
-  Conjuntos y estructura de datos:
+   ## :computer: Conjuntos y estructura de datos
 
   El conjunto de datos incluye la siguiente información:
 
